@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>云计算作业2</title>
+    <link href="/2022/03/26/work2/"/>
+    <url>/2022/03/26/work2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="2-1、列举威胁作用者有哪些，并简要说明。"><a href="#2-1、列举威胁作用者有哪些，并简要说明。" class="headerlink" title="2-1、列举威胁作用者有哪些，并简要说明。"></a>2-1、列举威胁作用者有哪些，并简要说明。</h2><p>✨结果如下表格：</p><table><thead><tr><th align="left">威胁作用者</th><th align="left">说明</th></tr></thead><tbody><tr><td align="left">匿名攻击者</td><td align="left">是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</td></tr><tr><td align="left">恶意服务作用者</td><td align="left">截取网络通信，试图恶意地使用或篡改数据</td></tr><tr><td align="left">授信的攻击者</td><td align="left">经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源</td></tr><tr><td align="left">恶意的内部人员</td><td align="left">试图滥用对云资源范围的访问特权的人</td></tr></tbody></table><h2 id="2-2、列举云安全威胁有哪些，并简要说明。"><a href="#2-2、列举云安全威胁有哪些，并简要说明。" class="headerlink" title="2-2、列举云安全威胁有哪些，并简要说明。"></a>2-2、列举云安全威胁有哪些，并简要说明。</h2><p>✨结果如下表格：</p><table><thead><tr><th align="left">云安全威胁</th><th align="left">说明</th></tr></thead><tbody><tr><td align="left">流量窃听</td><td align="left">通常是由截取网络流量的恶意服务作用者实施的</td></tr><tr><td align="left">恶意媒介</td><td align="left">同“流量窃听”通常是由截取网络流量的恶意服务作用者实施的</td></tr><tr><td align="left">拒绝服务</td><td align="left">当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用</td></tr><tr><td align="left">授权不足</td><td align="left">指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码</td></tr><tr><td align="left">虚拟化攻击</td><td align="left">利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问</td></tr><tr><td align="left">信任边界重叠</td><td align="left">潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源</td></tr></tbody></table>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>云计算</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>云计算作业1</title>
+    <link href="/2022/03/07/work1/"/>
+    <url>/2022/03/07/work1/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-1、云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"><a href="#1-1、云使能技术包括哪些技术组件？用一句话简要说明其关键特征。" class="headerlink" title="1-1、云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"></a>1-1、云使能技术包括哪些技术组件？用一句话简要说明其关键特征。</h2><h3 id="技术组件："><a href="#技术组件：" class="headerlink" title="技术组件："></a>技术组件：</h3><ul><li>宽带网络和Internet架构</li><li>数据中心技术</li><li>虚拟化技术</li><li>Web技术</li><li>多租户技术</li><li>服务技术</li></ul><h3 id="关键特征"><a href="#关键特征" class="headerlink" title="关键特征"></a>关键特征</h3><p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础。</p><h2 id="1-2、列举至少3种虚拟化软件，并用一句话概括其特点"><a href="#1-2、列举至少3种虚拟化软件，并用一句话概括其特点" class="headerlink" title="1-2、列举至少3种虚拟化软件，并用一句话概括其特点"></a>1-2、列举至少3种虚拟化软件，并用一句话概括其特点</h2><ul><li>VMware：侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</li><li>Xenserver重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多；</li><li>Hype-V 微软开发，起步相对较晚，对于MS的系统较为支持。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>云计算</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
