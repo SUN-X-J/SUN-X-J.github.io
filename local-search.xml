@@ -5,8 +5,8 @@
   
   <entry>
     <title>云计算作业2</title>
-    <link href="/2022/03/26/work2/"/>
-    <url>/2022/03/26/work2/</url>
+    <link href="/2022/03/21/work2/"/>
+    <url>/2022/03/21/work2/</url>
     
     <content type="html"><![CDATA[<h2 id="2-1、列举威胁作用者有哪些，并简要说明。"><a href="#2-1、列举威胁作用者有哪些，并简要说明。" class="headerlink" title="2-1、列举威胁作用者有哪些，并简要说明。"></a>2-1、列举威胁作用者有哪些，并简要说明。</h2><p>✨结果如下表格：</p><table><thead><tr><th align="left">威胁作用者</th><th align="left">说明</th></tr></thead><tbody><tr><td align="left">匿名攻击者</td><td align="left">是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</td></tr><tr><td align="left">恶意服务作用者</td><td align="left">截取网络通信，试图恶意地使用或篡改数据</td></tr><tr><td align="left">授信的攻击者</td><td align="left">经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源</td></tr><tr><td align="left">恶意的内部人员</td><td align="left">试图滥用对云资源范围的访问特权的人</td></tr></tbody></table><h2 id="2-2、列举云安全威胁有哪些，并简要说明。"><a href="#2-2、列举云安全威胁有哪些，并简要说明。" class="headerlink" title="2-2、列举云安全威胁有哪些，并简要说明。"></a>2-2、列举云安全威胁有哪些，并简要说明。</h2><p>✨结果如下表格：</p><table><thead><tr><th align="left">云安全威胁</th><th align="left">说明</th></tr></thead><tbody><tr><td align="left">流量窃听</td><td align="left">通常是由截取网络流量的恶意服务作用者实施的</td></tr><tr><td align="left">恶意媒介</td><td align="left">同“流量窃听”通常是由截取网络流量的恶意服务作用者实施的</td></tr><tr><td align="left">拒绝服务</td><td align="left">当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用</td></tr><tr><td align="left">授权不足</td><td align="left">指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码</td></tr><tr><td align="left">虚拟化攻击</td><td align="left">利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问</td></tr><tr><td align="left">信任边界重叠</td><td align="left">潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源</td></tr></tbody></table>]]></content>
     
